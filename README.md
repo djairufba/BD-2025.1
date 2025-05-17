@@ -1558,9 +1558,6 @@ ORDER BY
     total_projetos DESC;
 ```
 
-Estas consultas SQL abrangem diversos aspectos de gerenciamento acadêmico e de pesquisa, demonstrando a integração de múltiplas tabelas com relacionamentos complexos para extrair informações valiosas sobre orientações, publicações, projetos e colaborações entre pesquisadores e instituições.
-
-
 Consultas Avançadas
 
 ## 1. Identificar redes de colaboração entre pesquisadores baseado em coautorias
